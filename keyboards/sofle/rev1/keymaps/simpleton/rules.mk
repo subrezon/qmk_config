@@ -10,11 +10,11 @@ LTO_ENABLE     = yes
 DEBOUNCE_TYPE = asym_eager_defer_pk
 
 # # keycodes
-# EXTRAKEY_ENABLE     = yes
-# MOUSEKEY_ENABLE     = yes
-# UNICODEMAP_ENABLE   = yes
+EXTRAKEY_ENABLE     = yes
+MOUSEKEY_ENABLE     = yes
+UNICODEMAP_ENABLE   = yes
 # KEY_OVERRIDE_ENABLE = yes
 
 # # debug
-# BOOTMAGIC_ENABLE = yes
-# CONSOLE_ENABLE   = no
+BOOTMAGIC_ENABLE = yes
+CONSOLE_ENABLE   = no
