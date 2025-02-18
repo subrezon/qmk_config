@@ -61,7 +61,7 @@ enum layers {
 #define DF_GAMC DF(GAMING_COLEMAK)
 #define DF_GAMQ DF(GAMING_QWERTY)
 #define DF_GAMO DF(GAMING_OLD)
-#define MO_LSEL DF(GAMING_LAYER_SELECT)
+#define MO_LSEL MO(GAMING_LAYER_SELECT)
 
 // unicode
 enum unicode_names {
